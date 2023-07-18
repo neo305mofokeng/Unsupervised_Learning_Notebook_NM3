@@ -8,6 +8,7 @@ This repository forms part of a three part series of solutions architecture, nam
 This notebook houses an analysis of the data provided to Tech-Analytics by Tyler Perry Studios. The aim of requesting the data was so that Tech-Analytics could clean the data, visualise it and produce high performing models on the data that would form the basis of the application encompassing the Recommender system that is going to be built for Tyler Perry Studios.
 ## 2) Prerequisites
 **Modules:**
+
       pip install scikit-surprise
 
 **Datasets:**
