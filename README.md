@@ -63,13 +63,13 @@ If anyone is still having a problem running surprise on their local machine; do 
 
 Run the below lines of code on your anaconda command prompt:
 
-   conda update -n base -c defaults conda #updates conda to latest version as well as updates all the other packages
+      conda update -n base -c defaults conda #updates conda to latest version as well as updates all the other packages
    
-   conda install -c conda-forge scikit-surprise #for installing surprise
+      conda install -c conda-forge scikit-surprise #for installing surprise
 
 Uninstall anaconda and reinstall it (after installation, if it prompts you to update the navigator version do agree to do so), then install surprise:
 
-   conda install -c conda-forge scikit-surprise #for installing surprise
+      conda install -c conda-forge scikit-surprise #for installing surprise
 
 
 After these run successfully, it should allow you to import surprise on your notebook without any problems. I hope it helps :).
