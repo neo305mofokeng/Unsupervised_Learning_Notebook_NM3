@@ -75,3 +75,18 @@ Uninstall anaconda and reinstall it (after installation, if it prompts you to up
 
 
 After these run successfully, it should allow you to import surprise on your notebook without any problems. I hope it helps :).
+
+## 5) Support team
+   Neo Mofokeng neo305mofokeng@gmail.com
+   
+   Prayer Lungile Nkuna nkuna.lprayer@gmail.com
+   
+   Busiswa Machi busiswa.machi@gmail.com
+   
+   Musa Mabika musamabika4@gmail.com
+   
+   Olwethu Bhengu olwethubhengu45@gmail.com
+   
+   Lehakoe Precious Lerara lplerara@gmail.com
+   
+   Madimetja Laudwin Mojela laudwinmadimetja@gmail.com
