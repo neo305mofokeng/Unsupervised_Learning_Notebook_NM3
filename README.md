@@ -58,12 +58,14 @@ This notebook houses an analysis of the data provided to Tech-Analytics by Tyler
    We explained interesting points from the analysis as well as insights about our model of choice.
 
 ## 4) Common Bugs
-Over the cause of the project most of the team had a problem with installing the surprise module; this is coincidentally caused by a clash with an older version of Anaconda. This is mainly the case for people that use Anaconda as their default python path. To Troubleshoot this, fun the below lines of code
-If anyone is still having a problem running surprise on their local machine; do try one of these two ways:
+Over the cause of the project most of the team had a problem with installing the surprise module; this is coincidentally caused by a clash with an older version of Anaconda. This is mainly the case for people that use Anaconda as their default python path. To Troubleshoot this, fun the below lines of code.
+
+Try one of these two ways:
 
 Run the below lines of code on your anaconda command prompt:
 
       conda update -n base -c defaults conda #updates conda to latest version as well as updates all the other packages
+
    
       conda install -c conda-forge scikit-surprise #for installing surprise
 
